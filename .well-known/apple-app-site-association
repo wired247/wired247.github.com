@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "33GH2UL5C6.com.coupons.beta",
+                "paths": [ "cash-back/*", "cashback-coupons/*", "/" ]
+            },
+            {
+                "appID": "33GH2UL5C6.com.coupons.tahoe.staging",
+                "paths": [ "cash-back/*", "cashback-coupons/*", "/" ]
+            }
+        ]
+    } 
+}
